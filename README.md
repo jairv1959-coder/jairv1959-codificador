@@ -1,88 +1,114 @@
-# jairv1959-codificador
-<!--
-**rashi07dashore/rashi07dashore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy Viviana Suarez Riascos
 
-Here are some ideas to get you started:
+<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋<h2> I'm Rashi Dashore</h2>
+### 💼 Sobre mí
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+* 🎓 Soy **Técnica en Contabilidad** y actualmente estoy cursando **Administración Financiera**.
+* 📊 Actualmente estoy aprendiendo y fortaleciendo mis conocimientos en **Análisis de Datos**.
+* 💻 Me interesa la tecnología aplicada a las áreas **financieras, contables y administrativas**.
+* 📚 Me gusta aprender nuevas herramientas que me permitan analizar información y apoyar la toma de decisiones.
+* 🌱 Actualmente estoy fortaleciendo mis conocimientos en **Python, SQL y análisis de datos**.
+* 🎯 Mi objetivo es combinar mis conocimientos financieros y tecnológicos para desarrollar soluciones útiles y tomar decisiones basadas en datos.
+* 🤝 Me interesa seguir creciendo profesionalmente y participar en proyectos relacionados con **finanzas, administración y datos**.
 
-<h3> 💻 About Me </h3>
+---
 
+### 🛠️ Tecnologías y herramientas
 
+**📊 Análisis de Datos**
 
-- 🤔 &nbsp; Exploring new technologies and developing Web Applications.
+* Python
+* Pandas
+* Matplotlib
+* SQL
+* MySQL
 
-- 🎓 &nbsp; Pursuing Master of Computer Applications(MCA) from Devi Ahilya University Indore.
+**💼 Área Financiera y Administrativa**
 
-- ✍️ &nbsp; Talk to me about Tech, Indian mythology and Books.
-  
-- 👯 &nbsp; Part of Rewritting the Code Community: Women In Tech.
+* Contabilidad
+* Administración Financiera
+* Análisis financiero
+* Gestión de información
+* Análisis de datos para la toma de decisiones
 
-- 🌱 &nbsp; Balancing between algorithms and elegant code. Let's connect for meaningful discussions on software development and beyond.
+**🔧 Herramientas**
 
+* MySQL Workbench
+* Git & GitHub
+* Microsoft Excel
 
+---
 
-<h3>🛠 Tech Stack</h3>
+### 🌱 Actualmente aprendiendo
 
+* 📈 Análisis de Datos
+* 🐍 Python
+* 🗄️ SQL y bases de datos
+* 📊 Visualización de datos
+* 💰 Análisis financiero
+* 🤖 Aplicación de tecnología e inteligencia artificial en procesos administrativos y financieros
 
+---
 
-- 💻 &nbsp; Java | Python | MySQL | JavaScript
+### 📌 Áreas de interés
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Spring MVC | Springboot | Django
+```text
+Administración Financiera  📊
+        ↓
+Análisis de Datos          📈
+        ↓
+Contabilidad               💰
+        ↓
+Tecnología                 💻
+        ↓
+Toma de decisiones         🎯
+```
 
-- 🛢 &nbsp; MySQL | MongoDB | Hibernate
-  
-<!--
+Me interesa especialmente encontrar formas de utilizar los **datos y la tecnología para mejorar los procesos financieros y administrativos**.
 
-- 🛢 &nbsp; MySQL | MongoDB
+---
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+### 📊 Mis objetivos
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+* 🚀 Seguir desarrollando mis habilidades en análisis de datos.
+* 💡 Crear proyectos que combinen finanzas, administración y tecnología.
+* 📚 Continuar fortaleciendo mis conocimientos en Python y SQL.
+* 💼 Crecer profesionalmente en el área financiera y de análisis de información.
+* 🎯 Convertir los datos en información útil para la toma de decisiones.
 
--->
+---
 
+### 🤝 Conectemos
 
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Microservices
-
-<hr>
-
-<h3> 🤝🏻 Connect with Me </h3>
-<br>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rashi-dashore-27b14b248"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rashi%20Dashore-blue?style=flat-square&logo=linkedin"></a>
-
-
-<a href="mailto:dash.rashi07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dash.rashi07@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-Perfil-black?style=flat-square&logo=github">
+</a>
 
 </p>
 
+---
 
-<hr>
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align='right'>
+### ⚡ Un poco sobre mí
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashi07dashore&show_icons=true&theme=gotham)
+> *"Aprender, analizar y mejorar: cada dato puede convertirse en una oportunidad para tomar una mejor decisión."*
 
-<br>
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=rashi07dashore&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=rashi07dashore&theme=gotham"/></td></tr></table>
+---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore) 
+### 📈 GitHub
 
+<p align="center">
 
-<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=gotham" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=gotham" />
+
+</p>
+
+---
+
+<p align="center">
+✨ Gracias por visitar mi perfil ✨
+</p>
