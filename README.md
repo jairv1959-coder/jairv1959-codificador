@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Técnica+en+Contabilidad+📚;Estudiante+de+Administración+Financiera+💰;Aprendiendo+Análisis+de+Datos+📊;Python+%7C+SQL+%7C+MySQL+🐍;Convirtiendo+datos+en+información+💡"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Técnica+en+Contabilidad+📚;Estudiante+de+Administración+Financiera+💰;Curso+de+Análisis+de+Datos+Finalizado+📊;Python+%7C+SQL+%7C+MySQL+🐍;Pandas+%7C+Excel+%7C+Matplotlib+📈;Aprendiendo+y+creciendo+con+la+tecnología+💡"/>
 </p>
 
 <p align="center">
@@ -26,15 +26,73 @@
 
 🎓 Soy **Técnica en Contabilidad** y actualmente estoy cursando la carrera de **Administración Financiera**.
 
-📊 También estoy fortaleciendo mis conocimientos en **Análisis de Datos**, aprendiendo herramientas que me permiten trabajar con información y convertir los datos en elementos útiles para la toma de decisiones.
+📊 He finalizado un **curso de Análisis de Datos**, en el cual adquirí conocimientos prácticos en diferentes herramientas y plataformas utilizadas para trabajar con información y datos.
 
-💡 Me interesa especialmente la conexión entre:
+💡 Mi formación me ha permitido complementar mis conocimientos en:
 
-**💰 Finanzas + 📚 Contabilidad + 💼 Administración + 💻 Tecnología + 📊 Datos**
+**💰 Contabilidad + 📚 Administración Financiera + 📊 Análisis de Datos + 💻 Tecnología**
 
-🌱 Actualmente estoy desarrollando mis conocimientos en **Python, SQL, MySQL, Pandas y visualización de datos**.
+Durante mi formación trabajé con herramientas como:
 
-🎯 Mi objetivo es seguir creciendo profesionalmente y combinar mis conocimientos financieros con herramientas tecnológicas para aportar soluciones y mejorar procesos.
+**Excel · SQL · MySQL · Python · Pandas · Matplotlib · Git · GitHub**
+
+Mi objetivo es continuar fortaleciendo estos conocimientos y aprender cómo utilizar los datos para comprender información, identificar tendencias y apoyar procesos administrativos y financieros.
+
+> 📌 Los conocimientos relacionados con Análisis de Datos presentados en este perfil fueron adquiridos mediante formación académica, ejercicios y proyectos prácticos.
+
+---
+
+## 🎓 Formación
+
+### 📚 Técnica en Contabilidad
+
+Formación orientada al manejo de procesos y operaciones contables y financieras.
+
+### 💰 Administración Financiera
+
+**Actualmente en curso.**
+
+Mi formación está enfocada en fortalecer conocimientos relacionados con administración, finanzas y toma de decisiones.
+
+### 📊 Curso de Análisis de Datos
+
+**Finalizado.**
+
+Durante el curso adquirí conocimientos prácticos en diferentes herramientas para el manejo, análisis y visualización de datos.
+
+---
+
+## 📊 Formación en Análisis de Datos
+
+Durante mi curso de **Análisis de Datos** trabajé mediante ejercicios y proyectos prácticos para conocer diferentes etapas del proceso de análisis de información.
+
+### 🔎 Exploración de datos
+
+Aprendí a revisar y comprender la estructura de un conjunto de datos antes de comenzar el análisis.
+
+### 🧹 Limpieza de datos
+
+Trabajé con procesos para identificar y tratar información faltante o que necesitaba ser transformada.
+
+### 🗄️ Bases de datos
+
+Realicé ejercicios utilizando **SQL y MySQL** para consultar y analizar información almacenada en diferentes tablas.
+
+### 🐍 Python y Pandas
+
+Aprendí a utilizar Python y Pandas para cargar, explorar, limpiar, transformar y analizar datasets.
+
+### 📈 Visualización
+
+Utilicé **Matplotlib** para representar información mediante gráficos y facilitar la interpretación de los datos.
+
+### 📊 Excel
+
+Trabajé con Excel para organizar, analizar y visualizar información.
+
+### 💻 Git y GitHub
+
+Adquirí conocimientos básicos sobre Git y GitHub para organizar y compartir ejercicios y proyectos de formación.
 
 ---
 
@@ -66,36 +124,240 @@
 
 ---
 
-## 💼 Mi perfil profesional
+## 🧠 Lo que aprendí durante el curso
 
-<p align="center">
+Durante mi formación aprendí a trabajar con diferentes herramientas para realizar procesos básicos de análisis de datos.
 
-💰 <b>Contabilidad</b>
-  ➜  
-📊 <b>Análisis de Datos</b>
-  ➜  
-📈 <b>Administración Financiera</b>
-  ➜  
-💻 <b>Tecnología</b>
-  ➜  
-🎯 <b>Toma de decisiones</b>
+```text
+📁 Datos
+   ↓
+🔎 Exploración
+   ↓
+🧹 Limpieza
+   ↓
+🔄 Transformación
+   ↓
+📊 Análisis
+   ↓
+📈 Visualización
+   ↓
+💡 Interpretación
+```
 
-</p>
+Algunos de los conocimientos prácticos adquiridos incluyen:
 
-Me interesa encontrar formas de utilizar los **datos y la tecnología para mejorar los procesos financieros y administrativos**.
+* Lectura de archivos CSV.
+* Exploración de datasets.
+* Identificación de valores faltantes.
+* Limpieza de información.
+* Agrupación de datos.
+* Unión de datasets.
+* Consultas SQL.
+* Manejo de bases de datos MySQL.
+* Creación de gráficos.
+* Análisis descriptivo.
+* Organización de información en Excel.
 
 ---
 
-## 🌱 Actualmente aprendiendo
+# 📂 Proyectos de formación
+
+Los siguientes proyectos corresponden a ejercicios y trabajos prácticos realizados durante mi proceso de aprendizaje.
+
+---
+
+## 🗄️ Proyecto 1 — Base de datos de plataforma educativa
+
+**Herramientas:** MySQL · SQL · MySQL Workbench
+
+### 🎯 Objetivo
+
+Crear y consultar una base de datos relacionada con una plataforma educativa para practicar el manejo de bases de datos relacionales.
+
+### 🔧 Trabajo realizado
+
+* Creación de tablas.
+* Definición de relaciones.
+* Inserción de información.
+* Consultas SQL.
+* Uso de `JOIN`.
+* Uso de `GROUP BY`.
+* Uso de `HAVING`.
+* Funciones de agregación.
+* Consultas para obtener información específica.
+
+### 💡 Aprendizaje
+
+Este proyecto me permitió practicar la estructura de una base de datos y aprender cómo realizar consultas para obtener información a partir de diferentes tablas.
+
+📁 **Archivos del proyecto:**
+
+```text
+database.sql
+consultas.sql
+modelo-entidad-relacion.png
+README.md
+```
+
+---
+
+## 📈 Proyecto 2 — Análisis de ventas
+
+**Herramientas:** Excel · Python · Pandas · Matplotlib
+
+### 🎯 Objetivo
+
+Realizar un ejercicio de análisis de información relacionada con ventas para practicar la exploración, organización y visualización de datos.
+
+### 🔧 Trabajo realizado
+
+* Organización de datos.
+* Exploración de información.
+* Limpieza de datos.
+* Agrupación de información.
+* Cálculo de indicadores.
+* Creación de gráficos.
+* Interpretación de resultados.
+
+### 📊 Análisis
+
+Se trabajó con variables relacionadas con:
+
+* Ventas.
+* Productos.
+* Categorías.
+* Cantidades.
+* Periodos.
+
+### 💡 Aprendizaje
+
+El proyecto permitió practicar cómo transformar un conjunto de datos en información que puede ser representada mediante tablas y gráficos.
+
+📁 **Archivos del proyecto:**
+
+```text
+dataset_ventas.csv
+analisis_ventas.ipynb
+analisis_ventas.xlsx
+graficos/
+README.md
+```
+
+---
+
+## 🐍 Proyecto 3 — Limpieza y análisis exploratorio de datos
+
+**Herramientas:** Python · Pandas · Matplotlib
+
+### 🎯 Objetivo
+
+Practicar el proceso de exploración y limpieza de un dataset antes de realizar un análisis.
+
+### 🔧 Trabajo realizado
+
+* Carga del dataset.
+* Exploración inicial.
+* Revisión de estructura.
+* Identificación de datos faltantes.
+* Limpieza de información.
+* Transformación de datos.
+* Agrupación.
+* Análisis descriptivo.
+* Creación de visualizaciones.
+
+### 🐼 Herramientas de Pandas utilizadas
+
+```python
+read_csv()
+shape
+describe()
+fillna()
+dropna()
+groupby()
+merge()
+```
+
+### 📈 Visualización
+
+Se utilizaron gráficos mediante **Matplotlib** para representar los resultados del análisis.
+
+### 💡 Aprendizaje
+
+Este ejercicio me permitió comprender mejor el proceso de preparación y exploración de un dataset utilizando Python.
+
+📁 **Archivos del proyecto:**
+
+```text
+dataset.csv
+analisis_exploratorio.ipynb
+graficos/
+README.md
+```
+
+---
+
+## 📊 Proyecto 4 — Dashboard de indicadores
+
+**Herramienta:** Microsoft Excel
+
+### 🎯 Objetivo
+
+Practicar la creación de indicadores y visualizaciones utilizando información organizada en Excel.
+
+### 🔧 Trabajo realizado
+
+* Organización de datos.
+* Creación de indicadores.
+* Tablas.
+* Gráficos.
+* Análisis de resultados.
+* Presentación visual de información.
+
+### 💡 Aprendizaje
+
+Este proyecto me permitió practicar cómo presentar información de forma visual para facilitar su comprensión.
+
+📁 **Archivos del proyecto:**
+
+```text
+dashboard.xlsx
+capturas/
+README.md
+```
+
+---
+
+# 📚 Mi proceso de aprendizaje
+
+Mi aprendizaje en Análisis de Datos continúa después de finalizar el curso.
+
+Actualmente estoy buscando seguir practicando mediante ejercicios personales y proyectos que me permitan fortalecer los conocimientos adquiridos.
+
+```text
+🎓 Curso finalizado
+       ↓
+📚 Practicar
+       ↓
+💻 Crear proyectos
+       ↓
+📊 Fortalecer conocimientos
+       ↓
+🚀 Seguir aprendiendo
+```
+
+---
+
+## 🌱 Actualmente fortaleciendo
 
 <p align="center">
 
-📈 Análisis de Datos
-🐍 Python
-🗄️ SQL y bases de datos
-📊 Visualización de datos
-💰 Análisis financiero
-🤖 Inteligencia Artificial aplicada a procesos administrativos y financieros
+📊 Análisis de Datos   •  
+🐍 Python   •  
+🗄️ SQL   •  
+💾 MySQL   •  
+📈 Pandas   •  
+📊 Excel   •  
+📉 Matplotlib
 
 </p>
 
@@ -107,36 +369,37 @@ Me interesa encontrar formas de utilizar los **datos y la tecnología para mejor
 
 ## 🎯 Mis objetivos
 
-🚀 Seguir desarrollando mis habilidades en **Análisis de Datos**.
+🚀 Continuar fortaleciendo mis conocimientos en **Análisis de Datos**.
 
-📚 Continuar fortaleciendo mis conocimientos en **Administración Financiera**.
+📚 Seguir desarrollándome en **Administración Financiera**.
 
-🐍 Mejorar mis habilidades en **Python y SQL**.
+🐍 Mejorar progresivamente mis conocimientos en **Python y SQL**.
 
-💡 Crear proyectos que combinen **finanzas, administración y tecnología**.
+📊 Crear nuevos proyectos para practicar las herramientas aprendidas.
 
-💼 Crecer profesionalmente en el área **financiera y de análisis de información**.
+💰 Integrar mis conocimientos de **Contabilidad, Administración Financiera y Análisis de Datos**.
 
-🎯 Convertir los datos en información útil para la **toma de decisiones**.
+💡 Aprender nuevas herramientas que me permitan ampliar mis oportunidades profesionales.
 
 ---
 
-## 📂 Mis proyectos
+## 💼 Mi perfil
 
-🚧 **En construcción...**
-
-Actualmente estoy aprendiendo y desarrollando proyectos relacionados con:
+Mi perfil combina diferentes áreas de formación:
 
 <p align="center">
 
-💰 Finanzas
-📊 Análisis de Datos
-🐍 Python
-🗄️ SQL
-📈 Visualización de Datos
-💻 Tecnología
+💰 <b>Contabilidad</b>
+  ➜  
+📚 <b>Administración Financiera</b>
+  ➜  
+📊 <b>Análisis de Datos</b>
+  ➜  
+💻 <b>Tecnología</b>
 
 </p>
+
+Esta combinación me permite tener interés en el análisis de información desde una perspectiva **administrativa, financiera y tecnológica**.
 
 ---
 
@@ -174,10 +437,6 @@ Actualmente estoy aprendiendo y desarrollando proyectos relacionados con:
 <img src="https://img.shields.io/badge/💼_LinkedIn-Viviana_Suarez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jairv1959@gmail.com">
-<img src="https://img.shields.io/badge/📧_Gmail-jairv1959%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -203,8 +462,4 @@ Actualmente estoy aprendiendo y desarrollando proyectos relacionados con:
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer"/>
-</p>
-
-<p align="center">
-✨ <b>Gracias por visitar mi perfil</b> ✨
 </p>
